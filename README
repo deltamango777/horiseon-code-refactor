@@ -1,0 +1,35 @@
+# Code Refactor
+
+## Description
+
+Starter code was given that made-up a basic company webpage. The task at hand was to refactor the code to meet accessibility standards and make slight adjustments around the code to fix and clean up any left-over (or missed) issues. This project was designed to help get our feet wet in the world of web development through acquainting us with observation and iteration of already existing code. 
+
+- What was your motivation?
+Many people are born into this world with cards dealt against them in ways they simply can't control. Being able to even the field and bring accessibility options to more people is always something worth doing, as it helps equalize the field and give people with disability the chance to experience things as we can. 
+- Why did you build this project? (Note: the answer is not \"Because it was a homework assignment.")
+I built this project to assist with making this page more legible for people who rely on screen readers, as well as to work on my own ability to handle given code and iterate in ways that make it better for everyone involved. 
+- What problem does it solve?
+This project solves minor issues in terms of construction and major issues in terms of social impact. 
+- What did you learn?
+I learned that it really doesn't take much effort to implement something that can go a long way in helping those less fortunate the average person. 
+
+## Installation
+
+1. Open the webpage via link. 2. Utilize screen reader software in the event of requiring the alt text.  
+
+## Usage
+
+Open the site via link, and click on links in the navbar to take you to whichever place said topic is located on the screen. 
+
+## Credits
+
+It was just I, as well as credit to the folks at edx who made this page. 
+
+n/a
+
+n/a
+
+## License
+
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
